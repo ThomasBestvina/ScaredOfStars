@@ -14,6 +14,11 @@ config/name="ScaredOfStars"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
 
+[autoload]
+
+Config="*res://scripts/singletons/config.gd"
+Gamestate="*res://scripts/singletons/gamestate.gd"
+
 [rendering]
 
 textures/canvas_textures/default_texture_filter=0
