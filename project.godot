@@ -13,12 +13,17 @@ config_version=5
 config/name="ScaredOfStars"
 run/main_scene="uid://dcbsknh51ndfo"
 config/features=PackedStringArray("4.4", "C#", "Forward Plus")
-config/icon="res://icon.svg"
+config/icon="res://resource/icon.svg"
 
 [autoload]
 
 Config="*res://scripts/singletons/config.gd"
 Gamestate="*res://scripts/singletons/gamestate.gd"
+
+[display]
+
+window/size/viewport_width=800
+window/size/resizable=false
 
 [dotnet]
 
@@ -27,3 +32,4 @@ project/assembly_name="ScaredOfStars"
 [rendering]
 
 textures/canvas_textures/default_texture_filter=0
+environment/defaults/default_clear_color=Color(0, 0, 0, 1)

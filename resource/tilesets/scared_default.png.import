@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dw1j8hrslv07c"
-path="res://.godot/imported/scared_default.png-1a21b5db2504d5ad6cd6d5eb68c56369.ctex"
+path="res://.godot/imported/scared_default.png-8add5ea2f40feacfd7b23f52fc5aed3d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tilesets/scared_default.png"
-dest_files=["res://.godot/imported/scared_default.png-1a21b5db2504d5ad6cd6d5eb68c56369.ctex"]
+source_file="res://resource/tilesets/scared_default.png"
+dest_files=["res://.godot/imported/scared_default.png-8add5ea2f40feacfd7b23f52fc5aed3d.ctex"]
 
 [params]
 
